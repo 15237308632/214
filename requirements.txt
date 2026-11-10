@@ -1,0 +1,5 @@
+# 八字命理知识库依赖
+# 寿星天文历：立春换年、节气换月、日柱换算（沙箱与多数环境已预装）
+sxtwl>=2.0
+
+# 其余模块仅使用 Python 3.8+ 标准库（json / pathlib / datetime / unittest / argparse）
